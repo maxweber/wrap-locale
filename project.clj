@@ -1,4 +1,4 @@
-(defproject wrap-locale "0.1.0-SNAPSHOT"
+(defproject wrap-locale "0.1.0"
   :description "A workaround to parse the Accept-Language header of a HTTP request."
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [tomcat/tomcat-util "5.5.23"]]
